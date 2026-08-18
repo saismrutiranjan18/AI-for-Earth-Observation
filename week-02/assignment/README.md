@@ -58,3 +58,33 @@ What are the three structural layer classifications that define the standard fee
 How does Hyperspectral Anomaly Detection (HAD) differ fundamentally from traditional Target Detection?
 - [ ] HAD requires prior knowledge of target spectral signatures, whereas target detection assumes completely unknown threats.
 - [x] **HAD assumes unknown targets and focuses entirely on identifying spectrally rare objects that differ from the surrounding background, requiring no prior signatures.** (Correct)
+- [ ] HAD processes only single-channel thermal data, while target detection uses dense radar bands.
+- [ ] HAD relies strictly on manual pixel-level segmentation annotations drawn by human operators.
+
+---
+
+### Question 8
+Synthetic Aperture Radar (SAR) is highly valued in Earth observation because it operates under specific environmental conditions that blind optical sensors. Which conditions are they?
+- [x] **Cloudy conditions and nighttime conditions.** (Correct)
+- [ ] Intense solar glare and midday thermal maximums.
+- [ ] High-altitude atmospheric zones.
+- [ ] Deep sub-surface seismic disturbances.
+
+---
+
+### Question 9
+Match the following SAR frequency bands with their primary physical remote sensing application: L-band and C-band.
+- [ ] L-band is used for high-resolution commercial urban mapping ; C-band is used for subsurface mantle exploration.
+- [x] **L-band is used for deep vegetation penetration and forest structure/biomass estimation ; C-band is used for land cover, flood, and agricultural mapping.** (Correct)
+- [ ] L-band is used exclusively for daytime weather tracking ; C-band is used for sea-ice measurement.
+- [ ] L-band is used exclusively for daytime tracking ; C-band is used for nighttime tracking.
+
+---
+
+### Question 10
+The European Space Agency's Sentinel-1 mission operates a radar system belonging to which specific microwave frequency band?
+- [ ] High-resolution commercial X-band
+- [ ] L-band
+- [x] **C-band** (Correct)
+- [ ] Subsurface-probing P-band
+
